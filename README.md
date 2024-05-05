@@ -1,45 +1,60 @@
 # Hospital-Management-System
 (Class 12th ka fun)
 ## Used Software Applications: 
-Python and MySQL
+
+#### Python Programming language  
+Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. 
+Python interpreters are available for many operating systems. Python is a multi-paradigm programming language.  Many other paradigms are supported via extensions, including design by contract and logic programming. 
+
+#### MySQL  
+MySQL Database Service is a fully managed database service to deploy cloud-native applications. HeatWave, an integrated, high-performance analytics engine accelerates MySQL performance by 400x.MySQL Cluster enables users to meet the database challenges of next generation web, cloud, and communications services with uncompromising scalability, uptime and agility.
+  
+| CONTENTS |
+| ----- |
+| ⦁		[Project background]{} |
+| ⦁		Technologies used |
+| ⦁	 Objective of Project |
+| ⦁		Designing |
+| ⦁		Coding of the program |
+| ⦁		Output screens |
+| ⦁		Testing technologies |
+| ⦁	   Sites Referred |
+
 ## PROJECT BACKGROUND
 
-Nowadays there is a big trend of going digital and one of the best uses of this trend can be visualized in Hospital Management System where the track of numerous amount of paperwork required.
+Nowadays there is a big trend of going digital and one of the best uses of this trend can be visualized in **Hospital Management System** where the track of numerous amount of paperwork required.
 
 As there is much of paperwork, there is more chance of losing it in many ways like that in a fire, or misplacing some important files. So, the best use of Machines can be made in this case. 
 
-Machines can store numerous large data on the disk and moreover just not storing, the data is safe. So if Hospital Management system go digital they can maintain a computer system that stores all the information of the Hospital management system like Booking Enquiry, Hospital enquiry, Appointment, Searching booking and there is still more which is beyond our imagination that machine can do.
+Machines can store numerous large data on the disk and moreover just not storing, the data is safe. _So if Hospital Management system go digital they can maintain a computer system that stores all the information of the Hospital management system like Booking Enquiry, Hospital enquiry, Appointment, Searching booking and there is still more which is beyond our imagination that machine can do._
 
 In this program I took a little step forward by implementing the above in real life situation.
 
 
-TECHNOLOGIES USED
-Python Programming language
-Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. 
-Python interpreters are available for many operating systems. Python is a multi-paradigm programming language.  Many other paradigms are supported via extensions, including design by contract and logic programming. 
+### SYSTEM REQUIREMENTS
 
-MySQL
-MySQL Database Service is a fully managed database service to deploy cloud-native applications. HeatWave, an integrated, high-performance analytics engine accelerates MySQL performance by 400x.MySQL Cluster enables users to meet the database challenges of next generation web, cloud, and communications services with uncompromising scalability, uptime and agility.
-
-## SYSTEM REQUIREMENTS
-
-Software Required:-
-    MySQL 5.5 Command Line Client
-Python 3.8
-Microsoft Word for presentation of project.
-Processors : x86 64-bit CPU ( INTEL/AMD )
+>Software Required:-
+>
+>    MySQL 5.5 Command Line Client
+>
+>Python 3.8
+>
+>Processors : x86 64-bit CPU ( INTEL/AMD )
 
 
-## Hardware Required:-
+### Hardware Required:-
 
-Operating systems:- Windows* 7 or later, macOS, and Linux.
-Processor:- x86 64-bit CPU (Intel / AMD architecture)
-RAM:- 2 Gb RAM or more.
-Disk Space:-1 GB or more.
+>Operating systems:- Windows* 7 or later, macOS, and Linux.
+>
+>Processor:- x86 64-bit CPU (Intel / AMD architecture).
+>
+>RAM:- 2 Gb RAM or more.
+>
+>Disk Space:-1 GB or more.
 
 
 
-Objective of Project :-
+### Objective of Project :-
 To let the students apply the programming knowledge into a real- world situation/problem and exposed the students how programming skills helps in developing a good software.
 Write programs utilizing modern software tools.
 Apply object oriented programming principles effectively when developing small to medium sized projects.
@@ -284,9 +299,9 @@ Room Info(6)-
 
 
 
-##      TESTING TECHNOLOGIES 
+##  TESTING TECHNOLOGIES 
 
-### White Box Testing
+#### White Box Testing
 White-box testing (also known as clear box testing,
 glass box testing, transparent box testing, and structural testing) is a method of testing software that tests
 internal structures or workings of an application, as opposed to its functionality (i.e. black-box testing). In
@@ -306,7 +321,7 @@ uncover many errors or problems, it has the potential to
 miss unimplemented parts of the specification or missing requirements.
 
 
-### Black Box Testing
+#### Black Box Testing
 Black-box testing is a method of software testing that
 examines the functionality of an application without peering into its internal structures or workings. This method
 of test can be applied virtually to every level of software
@@ -314,8 +329,7 @@ testing: unit, integration, system and acceptance. It typically comprises most i
 can also dominate unit testing as well. Specific knowledge of the application’s code/internal structure and programming knowledge in general is not required. The tester is aware of what the software is supposed to do but is not aware of how it does it. For instance, the tester is aware that a particular input returns
 a certain, invariable output but is not aware of how the
 software produces the output in the first place.
-   BIBLIOGRAPHY 
 
-Sites Referred:-
-https://www.geeksforgeeks.org/
-https://leetcode.com/
+### Sites Referred:-
+[GFG]{https://www.geeksforgeeks.org/}  
+[Leetcode]{https://leetcode.com/}
