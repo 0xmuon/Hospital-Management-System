@@ -330,7 +330,8 @@ software produces the output in the first place.
 [GFG]{https://www.geeksforgeeks.org/}  
 [Leetcode]{https://leetcode.com/}
 
-https://dianaurban.com/cat-gifs-guaranteed-to-make-you-smile
+![image](https://github.com/0xmuon/Hospital-Management-System/assets/127816064/c593aadb-6fa0-47d1-94dd-a046662bcb07)
+
 
 ## Contributors
 
