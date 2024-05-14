@@ -4,10 +4,10 @@
 
 <h2>ℹ️ Project info</h2>
 <div>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/RudrakshAtGithub/RudrakshAtGithub?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/RudrakshAtGithub/RudrakshAtGithub?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RudrakshAtGithub/RudrakshAtGithub?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/RudrakshAtGithub/RudrakshAtGithub?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/0xmuon/Hospital-Management-System?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/0xmuon/Hospital-Management-System?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/0xmuon/Hospital-Management-System?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/0xmuon/Hospital-Management-System?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
 <!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
@@ -79,41 +79,28 @@ Write effective procedural code to solve small to medium sized problems.
 
 
 ## Module Definition :-
-Patient Mode – 
+> Patient Mode – 
 This mode enables the user to deal with the Patient details. This helps to perform various tasks –
-
-
 Adding Patient Details – This module adds the patient details by taking the sufficient information from the user .
-
-
 Deleting Patient Details – This module deletes the patient record based on the suitable Patient ID.
-
-
 Modifying Patient Details – This module modifies the  patient details.
-
-
 Displaying Patient Details – This module displays the records of patient details by the user .
 All patient details – This module displays all the records of patients.
 For particular – This module displays for a particular patient details.
 
-
-Doctor Mode –
+>
+> Doctor Mode –
  This mode enables the administrator to deal with the doctor details. This helps to perform several tasks –
-
-
 Adding Doctor – This Module adds the doctor information.
-
-
 Displaying Doctor Details– This module displays all the records of the doctor .
 All Doctor details – This module displays all the records of doctors.
 Status – This module displays that the doctor is available or busy.
 Specialist – This module displays that the doctor is specialist .
 Deleting Doctor – This module deletes the record of doctor with Doctor ID given by the user .
-
-
 Modifying Doctor – This module modifies the doctor details .
 
- Payment Mode-
+>
+> Payment Mode-
 Online Mode-This module is defined for online payment.
 Google Pay- This module is defined for online payment through google pay.
 Debit Card- This module is defined for online payment through debit card.
@@ -122,25 +109,19 @@ Offline Mode- This module is defined for offline payment.
 Cash- This module is defined for offline payment through cash.
 Cheque- This module is defined for offline payment through cheque.
 
-
-
-
-   Emergency Mode-
+>
+> Emergency Mode-
 Ventilator Ambulance- This module defines ambulance with ventilator facility.
 Basic Life Support Ambulance-This module defines ambulance for basic necessary AIDS.
 
-
- Report-
+>
+> Report-
 Hospital Information -This module will display the information about hospital.
-
-
 Booking Bed - This module book the bed for the patient.
-
-
 Room Information- This module displays information about the room.
 
-
-Exit – It is used to close the program.
+>
+> Exit – It is used to close the program.
 DESIGNING
 
 ##     Output Screens
@@ -348,6 +329,8 @@ software produces the output in the first place.
 ### Sites Referred:-
 [GFG]{https://www.geeksforgeeks.org/}  
 [Leetcode]{https://leetcode.com/}
+
+https://dianaurban.com/cat-gifs-guaranteed-to-make-you-smile
 
 ## Contributors
 
