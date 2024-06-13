@@ -125,13 +125,13 @@ Room Information- This module displays information about the room.
 DESIGNING
 
 ##     Output Screens
-Home Screen-
+###### Home Screen-
 
 1. Patient Mode-
 
 
 
-Add Patient Details-
+###### Add Patient Details-
 
 1.1.1.1 -   Pay through online google pay
 
@@ -171,13 +171,13 @@ Add Patient Details-
 
 1.4.2.2 Display particular patient details (if you don’t know Patient ID)-
 
-Doctor mode –
+####### Doctor mode –
 
 
 
 
 
-Adding doctor details-
+###### Adding doctor details-
 
 
 2.2.1Displaying All Doctor Details –
@@ -190,7 +190,7 @@ Displaying Particular  Doctor Details which is available -
 Displaying Particular  Doctor Details which is busy –
 
 
-Deleting Doctor details-
+####### Deleting Doctor details-
 
 
 2.4.1 Modify Doctor Details (Name)-
@@ -214,15 +214,15 @@ Deleting Doctor details-
 
 
 
-Medicines –
+###### Medicines –
 
 
-Emergency-
+###### Emergency-
 
 
 
 
-Ventilator Ambulance-
+###### Ventilator Ambulance-
 
 3.1.1.1 -   Pay through online google pay
 
@@ -237,7 +237,7 @@ Ventilator Ambulance-
 3.1.2.2 - Pay through offline Cheque
 
 
-Basic  Life  Support  Ambulance-
+###### Basic  Life  Support  Ambulance-
 
 3.2.1.1 -   Pay through online google pay
 
@@ -251,7 +251,7 @@ Basic  Life  Support  Ambulance-
 3.2.2.2 - Pay through offline Cheque
 
 
-Report-
+###### Report-
 
 Hospital Info-
 
