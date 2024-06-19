@@ -26,7 +26,7 @@ MySQL Database Service is a fully managed database service to deploy cloud-nativ
   
 | CONTENTS |
 | ----- |
-| ⦁		[Project background]{} |
+| ⦁		Project background |
 | ⦁		Technologies used |
 | ⦁	 Objective of Project |
 | ⦁		Designing |
