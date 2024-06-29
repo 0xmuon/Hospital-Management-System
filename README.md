@@ -327,10 +327,9 @@ a certain, invariable output but is not aware of how the
 software produces the output in the first place.
 
 ### Sites Referred:-
-[GFG]{https://www.geeksforgeeks.org/}  
-[Leetcode]{https://leetcode.com/}
 
-![image](https://github.com/0xmuon/Hospital-Management-System/assets/127816064/c593aadb-6fa0-47d1-94dd-a046662bcb07)
+[GFG](https://www.geeksforgeeks.org/)  
+[Leetcode](https://leetcode.com/)
 
 
 ## Contributors
